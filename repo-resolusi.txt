@@ -1,6 +1,8 @@
 resolusi IT
 - Backend
   - PHP
+    Framework
+    - Laravel
   - JS
   - Pyhton
 - Devops
