@@ -3,6 +3,7 @@ resolusi IT
   - PHP
     Framework
     - Laravel
+    - Codeigniter
   - JS
   - Pyhton
 - Devops
