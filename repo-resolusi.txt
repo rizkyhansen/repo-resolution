@@ -1,3 +1,11 @@
 resolusi IT
 - Backend
+  - PHP
+  - JS
+  - Pyhton
 - Devops
+  - CI/CD
+  - infrastructure as a code (IAC)
+  - Cloud Management
+  - Containerization & Orchestration
+  - Monitoring & Logging
